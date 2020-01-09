@@ -1,7 +1,12 @@
 # MarkDown语法练习1
 ## 一、这里是标题Demo
 
-<iframe height=650 width=1100 src='https://player.youku.com/embed/XNDQwNTkwMjk2NA==' frameborder=0 'allowfullscreen'></iframe>
+<video id="video" controls="" preload="none" poster="http://om2bks7xs.bkt.clouddn.com/2017-08-26-Markdown-Advance-Video.jpg">
+      <source id="mp4" src="http://om2bks7xs.bkt.clouddn.com/2017-08-26-Markdown-Advance-Video.mp4" type="video/mp4">
+      </video>
+
+
+
 
 
 &#x1F53D; &#x1F601;
